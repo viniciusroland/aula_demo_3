@@ -6,7 +6,13 @@ namespace AulaDemo3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var x = GetDobro(4);
+            Console.WriteLine($"Valor: {x}");
+        }
+
+        static int GetDobro(int n)
+        {
+            return 2 * n;
         }
     }
 }

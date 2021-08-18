@@ -1,0 +1,16 @@
+C:\Users\Pichau\RiderProjects\AulaDemo3\AulaDemo3\bin\Debug\net5.0\AulaDemo3.exe
+C:\Users\Pichau\RiderProjects\AulaDemo3\AulaDemo3\bin\Debug\net5.0\AulaDemo3.deps.json
+C:\Users\Pichau\RiderProjects\AulaDemo3\AulaDemo3\bin\Debug\net5.0\AulaDemo3.runtimeconfig.json
+C:\Users\Pichau\RiderProjects\AulaDemo3\AulaDemo3\bin\Debug\net5.0\AulaDemo3.runtimeconfig.dev.json
+C:\Users\Pichau\RiderProjects\AulaDemo3\AulaDemo3\bin\Debug\net5.0\AulaDemo3.dll
+C:\Users\Pichau\RiderProjects\AulaDemo3\AulaDemo3\bin\Debug\net5.0\ref\AulaDemo3.dll
+C:\Users\Pichau\RiderProjects\AulaDemo3\AulaDemo3\bin\Debug\net5.0\AulaDemo3.pdb
+C:\Users\Pichau\RiderProjects\AulaDemo3\AulaDemo3\obj\Debug\net5.0\AulaDemo3.csproj.AssemblyReference.cache
+C:\Users\Pichau\RiderProjects\AulaDemo3\AulaDemo3\obj\Debug\net5.0\AulaDemo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\RiderProjects\AulaDemo3\AulaDemo3\obj\Debug\net5.0\AulaDemo3.AssemblyInfoInputs.cache
+C:\Users\Pichau\RiderProjects\AulaDemo3\AulaDemo3\obj\Debug\net5.0\AulaDemo3.AssemblyInfo.cs
+C:\Users\Pichau\RiderProjects\AulaDemo3\AulaDemo3\obj\Debug\net5.0\AulaDemo3.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\RiderProjects\AulaDemo3\AulaDemo3\obj\Debug\net5.0\AulaDemo3.dll
+C:\Users\Pichau\RiderProjects\AulaDemo3\AulaDemo3\obj\Debug\net5.0\ref\AulaDemo3.dll
+C:\Users\Pichau\RiderProjects\AulaDemo3\AulaDemo3\obj\Debug\net5.0\AulaDemo3.pdb
+C:\Users\Pichau\RiderProjects\AulaDemo3\AulaDemo3\obj\Debug\net5.0\AulaDemo3.genruntimeconfig.cache
